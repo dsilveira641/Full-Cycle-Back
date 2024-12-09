@@ -27,7 +27,8 @@
 		// "customizations": {
 		// 	"vscode": {
 		// 		"extensios": [
-		// 			"ID"
+		// 			"Orta.vscode-jest",
+		// 			"firsttris.vscode-jest-runner"
 		// 		]
 		// 	}
 		// }
